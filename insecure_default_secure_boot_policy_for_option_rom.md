@@ -7,6 +7,7 @@
 In order to help prevent vulnerabilities in secure boot implementations, the default policy for Option ROMs was changed to a more secure value.
 
 
+
 ## Recommendation:
 
 
