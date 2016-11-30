@@ -56,6 +56,7 @@ easily reveal encryption keys or other secrets from OS runtime.
 Firmware developers who base code on EDK II should review their implementation for this issue and
 correct it, if needed. Where changes to open source are needed, Intel is recommending an embargo
 according to the timeline above.
+
 Here is some sample code for an EDKII-style PEI Platform code that can do the clear:
 ```javascript
 Status = VariableServices->PeiGetVariable (
@@ -103,7 +104,7 @@ this was not the case in the MOR driver for the last several years.
 3. Restart the system
 4. Run the command 'setvar MemoryOverwriteRequestControl -guid E20939BE-32D4-41BE-A150-897F85D49829 -nv -bs -rt = 01' in EFI_shell
 5. Run the command 'dmpstore -b -d -guid E20939BE-32D4-41BE-A150-897F85D49829' in EFI_shell
-result should come failure
+6. result should could be a failure
 
 
 
