@@ -20,4 +20,5 @@
 * [17. Buffer Overflow in Variable Reclaim](buffer_overflow_in_variable_reclaim.md)
 * [18. Overflow in Processing of AuthVarKeyDatabase](overflow_in_processing_of_authvarkeydatabase.md)
 * [19. Counter Based Authenticated Variable Issue](counter_based_authenticated_variable_issue.md)
+* new chapter
 
