@@ -1,2 +1,2 @@
-# Honoring Memory Only Reset Control and correct MOR spec imlementation
+# 20. Honoring Memory Only Reset Control and correct MOR spec imlementation
 
