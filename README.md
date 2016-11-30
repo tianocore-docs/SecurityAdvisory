@@ -1,4 +1,4 @@
-# Security Advisory V.003 {#security-advisory-v-003}
+# Security Advisory V.002 {#security-advisory-v-002}
 
 
 ## Tiano Security Advisories
@@ -6,5 +6,5 @@
 
 
 
-### Version 003 – Nov 29, 2016
+### Version 002 – Jan 2015
 
