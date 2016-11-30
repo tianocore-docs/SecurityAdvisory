@@ -1,6 +1,6 @@
 # Summary
 
-* [Security Advisory V.003](README.md)
+* [Security Advisory V.002](README.md)
 * [1. Insecure Default Secure Boot Policy for Option ROMs](insecure_default_secure_boot_policy_for_option_rom.md)
 * [2. Incorrect PKCS#1v1.5 Padding Verification for RSA Signature Check](incorrect_pkcs1v15_padding_verification_for_rsa_si.md)
 * [3. UEFI Variable “Reinstallation”](uefi_variable_reinstallation.md)
