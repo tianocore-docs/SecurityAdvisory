@@ -20,5 +20,5 @@
 * [17. Buffer Overflow in Variable Reclaim](buffer_overflow_in_variable_reclaim.md)
 * [18. Overflow in Processing of AuthVarKeyDatabase](overflow_in_processing_of_authvarkeydatabase.md)
 * [19. Counter Based Authenticated Variable Issue](counter_based_authenticated_variable_issue.md)
-* [Honoring Memory Only Reset Control and correct MOR spec imlementation](honoring_memory_only_reset_control_and_correct_mor.md)
+* [20. Honoring Memory Only Reset Control and correct MOR spec imlementation](honoring_memory_only_reset_control_and_correct_mor.md)
 
