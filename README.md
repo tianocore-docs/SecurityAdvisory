@@ -8,6 +8,7 @@
 
 **Date: Nov 29, 2016**
 
+This document will list 
 
 
 Revision History
@@ -30,3 +31,7 @@ Revision History
 <td align="right">Nov. 29, 2016</td>
 </tr>
 </table>
+
+Process
+----------------
+Security Bugs reported through: [How to report a Security Issue](https://github.com/tianocore/tianocore.github.io/wiki/Reporting-Security-Issues)
