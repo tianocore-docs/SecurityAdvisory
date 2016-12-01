@@ -23,5 +23,5 @@
 * [20. Honoring Memory Only Reset Control and correct MOR spec imlementation](honoring_memory_only_reset_control_and_correct_mor.md)
 * [21. TCG PP S4 issue](tcg_pp_s4_issue.md)
 * [22. BIOS Password](bios_password.md)
-* [OPAL driver has PP issue on BlockSid](opal_driver_has_pp_issue_on_blocksid.md)
+* [23. OPAL driver has PP issue on BlockSid](opal_driver_has_pp_issue_on_blocksid.md)
 
