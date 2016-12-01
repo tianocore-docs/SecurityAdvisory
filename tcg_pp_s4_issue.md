@@ -16,7 +16,7 @@ We need update ```Tcg2PhysicalPresenceLibProcessRequest``` to move S4 check AFTE
 This is addressed by EDK2 GIT 7b9b576c71c71ed134f50497fd58f862109dd80b, fb4f55dd8cede4aad14848e2dd260d2d36365f0c.
 
 
-## Acknowledgements:
+## Acknowledgments:
 
 
 Reported by Coleman, Rusty <Rusty.Coleman@intel.com>.
