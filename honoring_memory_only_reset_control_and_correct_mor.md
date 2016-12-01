@@ -116,7 +116,7 @@ MORLOCK2 checked in at EDK2 SVN  https://sourceforge.net/p/edk2/code/19690
 Recommend implementations pick up the above patch.
 
 
-## Acknowledgement
+## Acknowledgments
 
 
 This first issue was initially reported by Jeremiah Cox of Microsoft Corporation.  Second issue was reported both by Intel internal testing and Jeremiah Cox of Microsoft Corporation.
