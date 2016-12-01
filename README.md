@@ -8,7 +8,7 @@
 
 **Date: Nov 29, 2016**
 
-This document will list 
+This document will list briefings on each security issue found and give a description, a recomendation on a solution, an acknowlegment that the solution is validated and references.
 
 
 Revision History
@@ -34,4 +34,16 @@ Revision History
 
 Process
 ----------------
-Security Bugs reported through: [How to report a Security Issue](https://github.com/tianocore/tianocore.github.io/wiki/Reporting-Security-Issues)
+(short form)
+
+1. Security Bugs reported through: [How to report a Security Issue](https://github.com/tianocore/tianocore.github.io/wiki/Reporting-Security-Issues)
+2. The issue is evaluated
+3. Determine if a Security issue
+4. Determine Module 
+5. Fix and Validate issue
+6. If Security, Update Security Advisory (This Document)
+
+
+
+
+
