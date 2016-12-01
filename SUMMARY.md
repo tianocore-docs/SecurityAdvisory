@@ -26,5 +26,5 @@
 * [23. OPAL driver has PP issue on BlockSid](opal_driver_has_pp_issue_on_blocksid.md)
 * [24. OPAL driver has PSID issue](opal_driver_has_psid_issue.md)
 * [25. DHCP misses boundary check for network packet](dhcp_misses_boundary_check_for_network_packet.md)
-* SmmCore comm buffer check has TOCTOU issue
+* [SmmCore comm buffer check has TOCTOU issue](smmcore_comm_buffer_check_has_toctou_issue.md)
 
