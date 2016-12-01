@@ -25,4 +25,5 @@
 * [22. BIOS Password](bios_password.md)
 * [23. OPAL driver has PP issue on BlockSid](opal_driver_has_pp_issue_on_blocksid.md)
 * [24. OPAL driver has PSID issue](opal_driver_has_psid_issue.md)
+* DHCP misses boundary check for network packet
 
