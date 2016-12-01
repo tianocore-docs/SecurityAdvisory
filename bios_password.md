@@ -18,7 +18,7 @@ The better way to encode password is:
 3. Save random salt and hash to variable.
 
 
-## Acknowledgements:
+## Acknowledgments:
 
 
 Reported by Matrosov, Alexander <alexander.matrosov@intel.com>.
