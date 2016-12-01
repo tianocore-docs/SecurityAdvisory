@@ -21,5 +21,5 @@
 * [18. Overflow in Processing of AuthVarKeyDatabase](overflow_in_processing_of_authvarkeydatabase.md)
 * [19. Counter Based Authenticated Variable Issue](counter_based_authenticated_variable_issue.md)
 * [20. Honoring Memory Only Reset Control and correct MOR spec imlementation](honoring_memory_only_reset_control_and_correct_mor.md)
-* [TCG PP S4 issue](tcg_pp_s4_issue.md)
+* [21. TCG PP S4 issue](tcg_pp_s4_issue.md)
 
