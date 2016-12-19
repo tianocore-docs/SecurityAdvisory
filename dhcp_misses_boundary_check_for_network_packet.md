@@ -14,14 +14,15 @@ But actually, the source is from an external network, and there is no guarantee 
 
 
 1. For this specific issue, we need remove ```ASSERT``` and use error checking.
-2. clarify the rule, ```ASSERT``` can only be used for something *never* happen. Error check must be used for something *might* happen.
+2. clarify the rule, ```ASSERT``` can only be used for something ***never*** happen. Error check must be used for something ***might*** happen.
 
-This is addressed by EDK2 GIT 4f6b33b460226bc1a54d8af2c0f4fe195f2f04ce, 632dcfd6857b6211ce3fe9755d3c11e74ef5d447.
+This is addressed by EDK2 GIT <br>
+4f6b33b460226bc1a54d8af2c0f4fe195f2f04ce, 632dcfd6857b6211ce3fe9755d3c11e74ef5d4477, 471342bbefaac1c21fe7fa4e80949b552b12fbdd, a35dc6499beb0b76c340379a06dff74a8d38095a.
 
-Acknowledgements:
+## Acknowledgements:
 Reported by Timzen, Topher <topher.timzen@intel.com>
 
-References:
+## References:
 •	USRT M1622
 
 

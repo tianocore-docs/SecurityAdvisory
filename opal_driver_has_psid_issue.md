@@ -16,7 +16,8 @@ Technically, a malicious program may search memory and find out the PSID in memo
 2.	As generic rule, if a password or other secret is used in a driver, this driver should call ```ZeroMem()``` to clear secret in memory after it is used.
 
 
-This is addressed by EDK2 GIT e92ddda2b547f0b952935abaf44fd72e97dbf755..4e3b05a49f454bc257252ae9090421e3c8447737, bb3411ef286b3002d922e3785aa7a718417448f6..cb930ec304395404d10adb7946449df1adf1de7f.
+This is addressed by EDK2 GIT e92ddda2b547f0b952935abaf44fd72e97dbf755..4e3b05a49f454bc257252ae9090421e3c8447737, 
+bee13c00218f3ed3118d8d87683c11b31ca04564, 01dd077315c6759c94af9af4232f8318db13cf8d. 
 
 
 ## Acknowledgments:

@@ -22,9 +22,10 @@ So below code may still get wrong ```gSmmCorePrivate->CommunicationBuffer```.
 
 
 We need copy ```gSmmCorePrivate->CommunicationBuffer``` and ```gSmmCorePrivate->BufferSize``` to be a local variable, then check and use them, finally sync local variable back to outside SMRAM.
-	
 
-This is addressed by EDK2 GIT eaae7b33b1cf6b9f21db1636f219c2b6a8d88afd.
+Because the `BufferSize` is moved to SMRAM by SmmCore, the SMM driver should not check the address for the BufferSize.	
+
+This is addressed by EDK2 GIT eaae7b33b1cf6b9f21db1636f219c2b6a8d88afd, 62016c1e898434a0326f658912b1e7e0a9c5575e.
 
 
 ## Acknowledgments:
