@@ -4,9 +4,9 @@
 
 ## Tianocore Security Advisory Briefings
 
-**Version: 003 **
+**Version: 003.1 **
 
-**Date: Nov 29, 2016**
+**Date: Dec 19, 2016**
 
 This document will list briefings on each security issue found and give a description, a recomendation on a solution, an acknowlegment that the solution is validated and references.
 
