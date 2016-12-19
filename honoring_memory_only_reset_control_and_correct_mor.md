@@ -95,7 +95,8 @@ Implementation on Quark http://comments.gmane.org/gmane.comp.bios.edk2.devel/702
   Pulished <br>
 
 Reads on having the implementation do the following:
- 
+> **Set Variable may be modified to disalllow deletion of this UEFI variable, and to disallwo a change in its attributes** <br>
+
 this was not the case in the MOR driver for the last several years.  
 
 **Repro steps:**

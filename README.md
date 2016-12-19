@@ -27,9 +27,21 @@ Revision History
 </tr>
 <tr>
 <td align="center">.003</td>
-<td align="left">Version 002 - logs 20 - 26 </td>
+<td align="left">Version 003 - logs 20 - 26 </td>
 <td align="right">Nov. 29, 2016</td>
 </tr>
+<tr>
+<td align="center">.003-1</td>
+<td align="left">Version 003.1 - logs 21-26  <BR>
+<ul>
+   <li> Fix more for DHCP issue, feedback from Phoenix.</li>
+   <li> Fix Smm Variable GetInfo function issue, discovered by   release test.</li>
+   <li>Fix GIT hash info, which incorrect stated before. logs 21, 22, 23, 24, 25, 26</li>
+      </ul>
+  </td>
+<td align="right">Dec. 19, 2016</td>
+</tr>
+
 </table>
 
 Process
