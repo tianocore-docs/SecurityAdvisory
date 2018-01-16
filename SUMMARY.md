@@ -1,8 +1,37 @@
+<!--- @file
+  SUMMARY.md for Security Advisory
+  Copyright (c) 2018, Intel Corporation. All rights reserved.<BR>
+
+  Redistribution and use in source (original document form) and 'compiled'
+  forms (converted to PDF, epub, HTML and other formats) with or without
+  modification, are permitted provided that the following conditions are met:
+
+  1) Redistributions of source code (original document form) must retain the
+     above copyright notice, this list of conditions and the following
+     disclaimer as the first lines of this file unmodified.
+
+  2) Redistributions in compiled form (transformed to other DTDs, converted to
+     PDF, epub, HTML and other formats) must reproduce the above copyright
+     notice, this list of conditions and the following disclaimer in the
+     documentation and/or other materials provided with the distribution.
+
+  THIS DOCUMENTATION IS PROVIDED BY TIANOCORE PROJECT "AS IS" AND ANY EXPRESS OR
+  IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+  MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
+  EVENT SHALL TIANOCORE PROJECT  BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+  SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+  PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
+  OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+  WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+  OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS DOCUMENTATION, EVEN IF
+  ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+-->
 # Summary
 
 * [Security Advisory](README.md)
 * [1. Insecure Default Secure Boot Policy for Option ROMs](insecure_default_secure_boot_policy_for_option_rom.md)
-* [2. Incorrect PKCS#1v1.5 Padding Verification for RSA Signature Check](incorrect_pkcs1v15_padding_verification_for_rsa_si.md)
+* [2. Incorrect PKCS\#1v1.5 Padding Verification for RSA Signature Check](incorrect_pkcs1v15_padding_verification_for_rsa_si.md)
 * [3. UEFI Variable “Reinstallation”](uefi_variable_reinstallation.md)
 * [4. Overwrite from Performance Data Variable](overwrite_from_performance_data_variable.md)
 * [5. CommBuffer SMM Overwrite/Exposure](commbuffer_smm_overwriteexposure.md)
@@ -27,4 +56,5 @@
 * [24. OPAL driver has PSID issue](opal_driver_has_psid_issue.md)
 * [25. DHCP misses boundary check for network packet](dhcp_misses_boundary_check_for_network_packet.md)
 * [26. SmmCore comm buffer check has TOCTOU issue](smmcore_comm_buffer_check_has_toctou_issue.md)
+* [27. UEFI Variable Deletion/Corruption](uefi-variable-deletioncorruption.md)
 
