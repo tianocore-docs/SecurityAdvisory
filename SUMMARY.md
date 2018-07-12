@@ -57,4 +57,5 @@
 * [25. DHCP misses boundary check for network packet](dhcp_misses_boundary_check_for_network_packet.md)
 * [26. SmmCore comm buffer check has TOCTOU issue](smmcore_comm_buffer_check_has_toctou_issue.md)
 * [27. UEFI Variable Deletion/Corruption](uefi-variable-deletioncorruption.md)
+* [28. EDK II Untested memory not covered by SMM page protection](untested-memory-not-covered-by-smm-page-protection.md)
 
