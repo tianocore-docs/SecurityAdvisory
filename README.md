@@ -57,6 +57,7 @@ This document will list briefings on each security issue found and give a descri
 | | | |
 | .004.0 | Log 27 - Update<BR>Update Gitbook Template | Jan 11, 2018 |
 |.005.0 | Log 28  Update  |July 10, 2018  |  
+| .006.0  | Log 29 Update  | Sept 19, 2018  |
 |   |   |  |
 
 

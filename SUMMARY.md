@@ -58,4 +58,5 @@
 * [26. SmmCore comm buffer check has TOCTOU issue](smmcore_comm_buffer_check_has_toctou_issue.md)
 * [27. UEFI Variable Deletion/Corruption](uefi-variable-deletioncorruption.md)
 * [28. EDK II Untested memory not covered by SMM page protection](untested-memory-not-covered-by-smm-page-protection.md)
+* [29. Unauthenticated Firmware Chain-of-Trust Bypass](unauthenticated-firmware-chain-of-trust-bypass.md)
 
