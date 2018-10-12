@@ -59,4 +59,6 @@
 * [27. UEFI Variable Deletion/Corruption](uefi-variable-deletioncorruption.md)
 * [28. EDK II Untested memory not covered by SMM page protection](untested-memory-not-covered-by-smm-page-protection.md)
 * [29. Unauthenticated Firmware Chain-of-Trust Bypass](unauthenticated-firmware-chain-of-trust-bypass.md)
+* [30. EDK II Authenticated Variable Bypass](edk-ii-authenticated-variable-bypass.md)
+* [31. EDK II TianoCompress Bounds Checking Issues](edk-ii-tianocompress-bounds-checking-issues.md)
 

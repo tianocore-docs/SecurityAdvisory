@@ -1,7 +1,8 @@
 {
 "variables" : {
+"draft"   : "yes",
 "title" : "Security Advisory",
-"version" : "Version: .006.0"
+"version" : "Version: .007.0"
 },
 
 "plugins": ["puml"],
