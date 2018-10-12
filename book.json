@@ -2,7 +2,7 @@
 "variables" : {
 "title" : "Security Advisory",
 "version" : "Version: .007.0"
-},
+ },
 
 "plugins": ["puml"],
 "pluginsConfig": {}
