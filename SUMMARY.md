@@ -61,4 +61,13 @@
 * [29. Unauthenticated Firmware Chain-of-Trust Bypass](unauthenticated-firmware-chain-of-trust-bypass.md)
 * [30. EDK II Authenticated Variable Bypass](edk-ii-authenticated-variable-bypass.md)
 * [31. EDK II TianoCompress Bounds Checking Issues](edk-ii-tianocompress-bounds-checking-issues.md)
+* [32. DNS Packet Size Check](dns-pack-size-check.md)
+* [33. Opal BlockSid Setting Disabled after S3](opal-blocksid-setting-disabled-after-s3.md)
+* [34. PartitionDxe and Udf Buffer Overflow](partitiondxe-and-udf-buffer-overflow.md)
+* [35. Stack Overflow on Corrupted BMP](stack-overflow-on-corrupted-bmp.md)
+* [36. Buffer Overflow in BlockIo service for RAM disk](buffer-overflow-in-blockio-service-for-ram-disk.md)
+* [37. XHCI stack local stack overflow ](xhci-stack-local-stack-overflow.md)
+* [38. SW SMI Confused Deputy SmramSaveState.c](sw-smi-confused-deputy-smramsavestate_c.md)
+* [39. Unlimited FV Recursion](unlimited-fv-recursion.md)
+* [40. AuthVariable Timestamp Zeroing on APPEND_WRITE](authvariable-timestamp-zeroing-on-append_write.md)
 

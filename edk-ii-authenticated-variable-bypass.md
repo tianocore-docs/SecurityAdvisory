@@ -46,7 +46,7 @@ Patch to update firmware is:<br>https://bugzilla.tianocore.org/attachment.cgi?id
 
 ## Acknowledgments:
 This issue was discovered by Intel.
-References:
+## References:
 CVE-2018-3613
 
 
