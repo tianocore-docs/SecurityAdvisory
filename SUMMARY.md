@@ -1,6 +1,6 @@
 <!--- @file
   SUMMARY.md for Security Advisory
-  Copyright (c) 2018, Intel Corporation. All rights reserved.<BR>
+  Copyright (c) 2018-2019, Intel Corporation. All rights reserved.<BR>
 
   Redistribution and use in source (original document form) and 'compiled'
   forms (converted to PDF, epub, HTML and other formats) with or without
@@ -70,4 +70,5 @@
 * [38. SW SMI Confused Deputy SmramSaveState.c](sw-smi-confused-deputy-smramsavestate_c.md)
 * [39. Unlimited FV Recursion](unlimited-fv-recursion.md)
 * [40. AuthVariable Timestamp Zeroing on APPEND_WRITE](authvariable-timestamp-zeroing-on-append_write.md)
+* [41. BootGuard TOCTOU](bootguard-toctou-vulnerability.md)
 

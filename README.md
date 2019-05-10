@@ -60,6 +60,7 @@ This document will list briefings on each security issue found and give a descri
 | .006.0  | Log 29 Update  | Sept 19, 2018  |
 | .007.0  | Log 30 & 31 Update  | Oct 12, 2018  |
 | .008.0 | Log 32-40  Update | Mar 21, 2019 |
+| .009.0 | Log 41  Update | May 10, 2019 |
 |   |   |  |
 
 
