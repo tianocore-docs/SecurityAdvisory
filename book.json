@@ -1,10 +1,8 @@
 {
-"variables" : {
-"draft"   : "yes",
-"title" : "Security Advisory",
-"version" : "Version: .009.0"
- },
-
-"plugins": ["puml"],
-"pluginsConfig": {}
+  "variables" : {
+    "title"   : "Security Advisory",
+    "version" : "Version: .009.0"
+  },
+  "plugins": ["puml-aleung"],
+  "pluginsConfig": {}
 }
